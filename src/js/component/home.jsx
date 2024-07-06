@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./navBar";
+import Card from "./card"
 
 
 //include images into your bundle
